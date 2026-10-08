@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+tqdm
+ipywidgets
+ipyfilechooser
+plotly
+scikit-learn
+scipy
+sentence-transformers
+ollama
